@@ -12,6 +12,6 @@ body{
     height: auto;
     margin: auto;
     padding: 15px;
-    box-shadow: 2px 4px rgba (255, 60, 0, 0.753);
+    box-shadow: 2px 4px rgba(red, green, blue, alpha)
     background-color: #ffffff;
 }
