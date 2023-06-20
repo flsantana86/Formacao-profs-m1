@@ -32,9 +32,14 @@ body{
      font-size: 24px;
      text-shadow: 2px 4px rgba(red, green, blue, alpha)
      color: #ff9900
-     float: right;
-     
-
+     /*float: right;*/
     }
+    .secao1{
+        padding: 20px;
+        font-size: 14pt;
+    }
+    .item1{
+    font-style: italic;
     
+    }
 }
