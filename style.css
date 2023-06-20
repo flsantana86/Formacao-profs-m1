@@ -14,4 +14,27 @@ body{
     padding: 15px;
     box-shadow: 2px 4px rgba(red, green, blue, alpha)
     background-color: #ffffff;
+    font-family: verdana, geneva, tahoma, sans-serife;
+}
+.cabecalho{
+    height: 20%;
+    width: 95%;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    border-bottom: #dcdcdc solid;
+
+    .titulo{
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 24px;
+     text-shadow: 2px 4px rgba(red, green, blue, alpha)
+     color: #ff9900
+     float: right;
+     
+
+    }
+    
 }
